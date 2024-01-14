@@ -1,0 +1,19 @@
+.card.border-success {
+    border-color: green;
+}
+
+.card.border-warning {
+    border-color: orange;
+}
+
+footer {
+    padding: 20px 0;
+    background-color: #f7f7f7;
+    border-top: 1px solid #eaeaea;
+}
+
+form.form-inline {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
